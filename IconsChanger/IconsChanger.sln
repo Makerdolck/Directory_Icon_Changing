@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconsChanger", "IconsChanger\IconsChanger.csproj", "{EAD1A603-96A8-4555-9FA7-DCCAC8597948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD1A603-96A8-4555-9FA7-DCCAC8597948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD1A603-96A8-4555-9FA7-DCCAC8597948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD1A603-96A8-4555-9FA7-DCCAC8597948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD1A603-96A8-4555-9FA7-DCCAC8597948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9AA2A5-22E9-42F0-9F85-B2B8FA778BA6}
+	EndGlobalSection
+EndGlobal
